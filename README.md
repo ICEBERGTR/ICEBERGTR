@@ -13,13 +13,13 @@ I'm an undergraduate Software Engineering student (minoring in Neuroscience, wit
 - **Tools & Environments:** Linux, Git, GitLab, Visual Studio Code 
 - **Methodologies:** Agile, Iterative Development 
 
-#### Current & Upcoming Projects
-*(Updating repositories regularly)*
 ## 🚀 Featured Projects
 - **Linux Process Management System:** Developed a C-based program utilizing dynamic arrays, file parsing, and inter-process communication with forks and pipes.
 - **WardFit:** A personalized outfit recommendation mobile app built using Flutter and Python.
 - **Budgetly:** A Swift-based iOS app integrating Core Data and machine learning for personal finance management.
 - **Smart Drip Irrigation** — Automated plant watering system using soil moisture sensors and C/C++ microcontroller firmware.
+#### Current & Upcoming Projects
+*(Updating repositories regularly)*
 
 ## 📫 Connect with me
 - 📧 Email: aaygun@uoguelph.ca 
