@@ -15,9 +15,10 @@ I'm an undergraduate Software Engineering student (minoring in Neuroscience, wit
 
 ## 🚀 Featured Projects
 - **Linux Process Management System:** Developed a C-based program utilizing dynamic arrays, file parsing, and inter-process communication with forks and pipes.
-- **WardFit:** A personalized outfit recommendation mobile app built using Flutter and Python.
+- **WardFit:** (https://github.com/ICEBERGTR/wardfit) — Mobile wardrobe management and outfit recommendation app built with Flutter and Python (FastAPI).
 - **Budgetly:** A Swift-based iOS app integrating Core Data and machine learning for personal finance management.
 - **Smart Drip Irrigation** — Automated plant watering system using soil moisture sensors and C/C++ microcontroller firmware.
+  
 #### Current & Upcoming Projects
 *(Updating repositories regularly)*
 
