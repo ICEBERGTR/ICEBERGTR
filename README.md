@@ -14,13 +14,15 @@ I'm an undergraduate Software Engineering student (minoring in Neuroscience, wit
 - **Methodologies:** Agile, Iterative Development 
 
 ## 🚀 Featured Projects
-- **Linux Process Management System:** (https://github.com/ICEBERGTR/linux-process-manager) Developed a C-based program utilizing dynamic arrays, file parsing, and inter-process communication with forks and pipes.
-- **WardFit:** (https://github.com/ICEBERGTR/wardfit) — Mobile wardrobe management and outfit recommendation app built with Flutter and Python (FastAPI).
-- **Budgetly:** A Swift-based iOS app integrating Core Data and machine learning for personal finance management.
-- **Smart Drip Irrigation** — Automated plant watering system using soil moisture sensors and C/C++ microcontroller firmware.
-  
-#### Current & Upcoming Projects
-*(Updating repositories regularly)*
+- **[WardFit](https://github.com/ICEBERGTR/wardfit)** — Mobile wardrobe management and outfit recommendation app built with Flutter and Python (FastAPI).
+- **[Budgetly](https://github.com/ICEBERGTR/budgetly)** — iOS personal finance and expense tracker using Swift, SwiftUI, Core Data, and on-device ML categorization.
+- **[Linux Process Manager](https://github.com/ICEBERGTR/linux-process-manager)** — Systems programming tool in C implementing dynamic memory management, file parsing, and IPC via `fork()` and `pipe()`.
+- **[Smart Drip Irrigation](https://github.com/ICEBERGTR/smart-drip-irrigation)** — ESP32 C++ firmware and Python telemetry simulator for automated sensor-driven agricultural irrigation.
+
+## Currently Working On & Upcoming
+- **StatCan Employment Data Analysis (SQL)** — Analytical SQL project evaluating Statistics Canada labor market trends using complex queries, window functions, and aggregation pipelines.
+- **WardFit v1.1 (Backend & Auth Upgrade)** — Adding JWT authentication, persistent clothing photo uploads, and live Open-Meteo weather API integration.
+- **Cognitive Reaction & Focus Tracker** — A lightweight tool bridging Software Engineering and Neuroscience to measure reaction time drift and mental fatigue across study sessions.
 
 ## 📫 Connect with me
 - 📧 Email: aaygun@uoguelph.ca 
