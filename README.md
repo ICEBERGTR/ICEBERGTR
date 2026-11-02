@@ -14,7 +14,7 @@ I'm an undergraduate Software Engineering student (minoring in Neuroscience, wit
 - **Methodologies:** Agile, Iterative Development 
 
 ## 🚀 Featured Projects
-- **Linux Process Management System:** Developed a C-based program utilizing dynamic arrays, file parsing, and inter-process communication with forks and pipes.
+- **Linux Process Management System:** (https://github.com/ICEBERGTR/linux-process-manager) Developed a C-based program utilizing dynamic arrays, file parsing, and inter-process communication with forks and pipes.
 - **WardFit:** (https://github.com/ICEBERGTR/wardfit) — Mobile wardrobe management and outfit recommendation app built with Flutter and Python (FastAPI).
 - **Budgetly:** A Swift-based iOS app integrating Core Data and machine learning for personal finance management.
 - **Smart Drip Irrigation** — Automated plant watering system using soil moisture sensors and C/C++ microcontroller firmware.
