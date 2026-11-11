@@ -18,9 +18,9 @@ I'm an undergraduate Software Engineering student (minoring in Neuroscience, wit
 - **[Budgetly](https://github.com/ICEBERGTR/budgetly)** — iOS personal finance and expense tracker using Swift, SwiftUI, Core Data, and on-device ML categorization.
 - **[Linux Process Manager](https://github.com/ICEBERGTR/linux-process-manager)** — Systems programming tool in C implementing dynamic memory management, file parsing, and IPC via `fork()` and `pipe()`.
 - **[Smart Drip Irrigation](https://github.com/ICEBERGTR/smart-drip-irrigation)** — ESP32 C++ firmware and Python telemetry simulator for automated sensor-driven agricultural irrigation.
+- **StatCan Employment Data Analysis (SQL)** — Analytical SQL project evaluating Statistics Canada labor market trends using complex queries, window functions, and aggregation pipelines.
 
 ## Currently Working On & Upcoming
-- **StatCan Employment Data Analysis (SQL)** — Analytical SQL project evaluating Statistics Canada labor market trends using complex queries, window functions, and aggregation pipelines.
 - **WardFit v1.1 (Backend & Auth Upgrade)** — Adding JWT authentication, persistent clothing photo uploads, and live Open-Meteo weather API integration.
 - **Cognitive Reaction & Focus Tracker** — A lightweight tool bridging Software Engineering and Neuroscience to measure reaction time drift and mental fatigue across study sessions.
 
